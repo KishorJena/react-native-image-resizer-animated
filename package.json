@@ -1,7 +1,7 @@
 {
   "name": "react-native-image-resizer-animated",
   "version": "1.0.0",
-  "description": "## Getting started",
+  "description": "resize gifs and animated webp images",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -10,8 +10,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "..."
+    "url": "https://github.com/CrackerKSR/react-native-image-resizer-animated"
   },
+  "homepage":"https://github.com/CrackerKSR/react-native-image-resizer-animated",
   "keywords": [
     "react-native",
     "react",
