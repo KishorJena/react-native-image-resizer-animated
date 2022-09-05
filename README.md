@@ -1,8 +1,11 @@
 ## Installation : 
-```npm i react-native-image-resizer-animated```
+```bash
+npm i react-native-image-resizer-animated
+```
 I did not check about the compatibility and types safety
 You can create an issue so that I can update accordingly.
 You might need to link manually or link command if you are on older version of React Native.
+
 
 ## Description :
 I have built this for my project. There was no module to resize the animated images (gif and animated webp). So I created this one and shared to help others who are seeking for such functionality in React Native.
