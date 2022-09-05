@@ -19,6 +19,5 @@ I have built this for my project. There was no module to resize the animated ima
 ``` 
 
 ### Note :
-If it helped you then you can let me know or if want to ask or suggest something regarding this module create and issue
-
- Twitter: https://twitter.com/heyKSR
+If you want to ask or suggest something regarding this module create an issue or ping me on
+Twitter: https://twitter.com/heyKSR
