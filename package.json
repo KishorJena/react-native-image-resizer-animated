@@ -1,0 +1,33 @@
+{
+  "name": "react-native-image-resizer-animated",
+  "version": "1.0.0",
+  "description": "## Getting started",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "@KishorJena",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "..."
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "android",
+    "images",
+    "image",
+    "image-resizer",
+    "gif",
+    "webp",
+    "animated webp",
+    "awebp",
+    "scaling",
+    "scale",
+    "resize"
+  ],
+  "dependencies": {
+    "jest": "^29.0.2"
+  }
+}
