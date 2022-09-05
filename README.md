@@ -1,13 +1,16 @@
 
-# react-native-native-toast-library
+### PUBLISHING in Progress...
+# Refactoring codes and writting instructions. Do not install right now.
+
+# react-native-image-resizer-animated
 
 ## Getting started
 
-`$ npm install react-native-native-toast-library --save`
+`$ npm i react-native-image-resizer-animated`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-native-toast-library`
+`$ react-native link react-native-image-resizer-animated`
 
 ### Manual installation
 
