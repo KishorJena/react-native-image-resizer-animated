@@ -19,6 +19,12 @@ I have built this for my project. There was no module to resize the animated ima
  RNResize.ResizeStatic(sourceFile, destination_folder_path,hight,width,quality).then(res=>"file://"+res)
 ``` 
 
+### TODO 
+- Resizing modes - fit, cover, stretch
+- Attach extra information - absolute path, uri, scale, file size
+- Converter - convert from one file to another
+- Set output image type  
+
 ### Note :
 If you want to ask or suggest something regarding this module create an issue or ping me on
 Twitter: https://twitter.com/heyKSR
