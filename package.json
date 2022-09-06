@@ -1,6 +1,6 @@
 {
   "name": "react-native-image-resizer-animated",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "resize gifs and animated webp images. Covert between gifs and animated webp. optionally static images are also supported",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,8 @@
   "publishConfig": {
     "@CrackerKSR:registry": "https://npm.pkg.github.com"
   },
-  "bugs":{
-    "url":"https://github.com/CrackerKSR/react-native-image-resizer-animated/issues"
+  "bugs": {
+    "url": "https://github.com/CrackerKSR/react-native-image-resizer-animated/issues"
   },
   "homepage": "https://github.com/CrackerKSR/react-native-image-resizer-animated",
   "keywords": [
