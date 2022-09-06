@@ -10,7 +10,7 @@ You might need to link manually or link command if you are on older version of R
 ## Description :
 I have built this for my project. There was no module to resize the animated images (gif and animated webp). So I created this one and shared to help others who are seeking for such functionality in React Native.
 
-## Usage:
+## Usage :
  ``` js
  import RNResize from react-native-image-resizer-animated
  // for animated
