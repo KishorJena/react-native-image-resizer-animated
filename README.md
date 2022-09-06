@@ -16,7 +16,7 @@ I have built this for my project. There was no module to resize the animated ima
  // for animated
  RNResize.ResizeAnimated(sourceFile, destination_folder_path,hight,width,quality).then(res=>"file://"+res)
  // for static 
- RNResize.ResizeStatic(sourceFile, destination_folder_path,hight,width,quality).then(res=>"file://"+res)
+ RNResize.ResizeStatic(sourceFile, destination_folder_path,hight,width,quality).then(res=>"file://"+res) // add file prefex if needed. I will add option to get absolute path along with full uri later version
 ``` 
 
 ### TODO   
