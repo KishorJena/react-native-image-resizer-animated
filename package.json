@@ -13,7 +13,7 @@
     "url": "https://github.com/CrackerKSR/react-native-image-resizer-animated"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/CrackerKSR"
+    "registry": "https://npm.pkg.github.com/kishorjena"
   },
   "homepage":"https://github.com/CrackerKSR/react-native-image-resizer-animated",
   "keywords": [
