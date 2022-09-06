@@ -15,6 +15,9 @@
   "publishConfig": {
     "@CrackerKSR:registry": "https://npm.pkg.github.com"
   },
+  "bugs":{
+    "url":"https://github.com/CrackerKSR/react-native-image-resizer-animated/issues"
+  },
   "homepage": "https://github.com/CrackerKSR/react-native-image-resizer-animated",
   "keywords": [
     "react-native",
