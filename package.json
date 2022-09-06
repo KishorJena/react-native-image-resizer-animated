@@ -30,7 +30,7 @@
     "react-native-gif-resizer",
     "react-native-webp-resizer",
     "react-native-animated-webp-resizer",
-    "react-native-animated-image-resizer",
+    "react-native-animated-image-resizer"
   ],
   "dependencies": {
     "jest": "^29.0.2"
