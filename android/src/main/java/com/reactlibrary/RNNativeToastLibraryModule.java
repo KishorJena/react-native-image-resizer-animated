@@ -88,7 +88,7 @@ public class RNNativeToastLibraryModule extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
-    return "RNNativeToastLibrary";
+    return "RNResizer";
   }
 
   @ReactMethod

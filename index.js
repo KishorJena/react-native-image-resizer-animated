@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNNativeToastLibrary } = NativeModules;
+const { RNResizer } = NativeModules;
 
-export default RNNativeToastLibrary;
+export default RNResizer;
