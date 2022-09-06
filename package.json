@@ -1,6 +1,6 @@
 {
   "name": "react-native-image-resizer-animated",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "resize gifs and animated webp images. Covert between gifs and animated webp. optionally static images are also supported",
   "main": "index.js",
   "scripts": {
