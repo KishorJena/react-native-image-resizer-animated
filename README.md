@@ -15,7 +15,7 @@ I have built this for my project. There was no module to resize the animated ima
  import RNResize from react-native-image-resizer-animated
  // for animated
  RNResize.ResizeAnimated(sourceFile, destination_folder_path,hight,width,quality).then(res=>"file://"+res)
- // for static
+ // for static 
  RNResize.ResizeStatic(sourceFile, destination_folder_path,hight,width,quality).then(res=>"file://"+res)
 ``` 
 
